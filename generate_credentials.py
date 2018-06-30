@@ -1,6 +1,6 @@
 #!/bin/python
 # takes an ecrypted file , decrepty and passes a clear text string to be used for authentication 
-# @nkatwesigye@tesla.com
+# @nkatwesigye@gmail.com
 from __future__ import print_function, unicode_literals
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5
