@@ -12,6 +12,7 @@ import base64
 import sys
 import mysql.connector
 
+#Class includes methods that take authentication credentials and make a connection and close the connection to a mysql Database 
 class db_connection(object):
     def create_db_connection(self,connection_password,database_name,host='127.0.0.1'):
        self.connection_password = connection_password
