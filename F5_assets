@@ -1,0 +1,4 @@
+# List of F5 assets could be an ip or dns name 
+# i.e 
+10.33.64.135
+device1.domain.local
