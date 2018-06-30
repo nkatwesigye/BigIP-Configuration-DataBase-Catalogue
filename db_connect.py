@@ -1,6 +1,6 @@
 #!/bin/python
 # make and close mysql_database connections 
-# @nkatwesigye@tesla.com 
+# @nkatwesigye@gmail.com 
 from subprocess import call
 import os
 import subprocess
