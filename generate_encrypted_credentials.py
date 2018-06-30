@@ -1,6 +1,6 @@
 #!/bin/python 
 # takes a string and creates an rsa encrypted file 
-#@nkatwesigye@tesla.com
+#@nkatwesigye@gmail.com
 
 from __future__ import print_function, unicode_literals
 import getpass
